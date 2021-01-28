@@ -2,7 +2,7 @@
 // @name         SoLA Font Change
 // @namespace    @shiro_333
 // @version      0.1
-// @description  SoLAのフォントを変えるだけのツール　好きなフォントに変えてネ
+// @description  SoLAのフォントをいい感じにする　気に入らなければfont-family: 以下を好きに変えてね
 // @author       ひとしろ
 // @match        http://lostartifact.xsrv.jp/SoLA/*
 // @grant        GM_addStyle
