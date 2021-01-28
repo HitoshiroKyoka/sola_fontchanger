@@ -5,7 +5,6 @@
 // @description  SoLAのフォントを変えるだけのツール　好きなフォントに変えてネ
 // @author       ひとしろ
 // @match        http://lostartifact.xsrv.jp/SoLA/*
-//@updateURL     https://github.com/MM-shima/sola_fontchanger/main.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
